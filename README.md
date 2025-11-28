@@ -51,6 +51,5 @@ Open to opportunities in:
 - MERN Stack Development  
 - Full-Stack Web Applications  
 - AI/ML & Data-driven Applications  
+- Backend & Cloud Integration  
 - Automation and Cybersecurity  
-
----
