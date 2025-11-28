@@ -4,8 +4,8 @@
 <h3 align="center">Full Stack Developer | React | Node.js | MongoDB | AI/ML | SAP ABAP</h3>
 
 <p align="center">
-🌐 <a href="https://dharmikrabadiya.netlify.app/">Portfolio</a> • 
-📧 <a href="mailto:djrabadiya2910@gmail.com">Email</a>
+🌐 <a href="https://dharmikrabadiya.netlify.app/">https://dharmikrabadiya.netlify.app</a> • 
+📧 <a href="mailto:djrabadiya2910@gmail.com">djrabadiya2910@gmail.com</a>
 </p>
 
 ---
@@ -51,5 +51,4 @@ Open to opportunities in:
 - MERN Stack Development  
 - Full-Stack Web Applications  
 - AI/ML & Data-driven Applications  
-- Backend & Cloud Integration  
 - Automation and Cybersecurity  
