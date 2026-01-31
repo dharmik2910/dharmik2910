@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dharmik2910&color=red)
 
 <h1 align="center">Hi 👋, I'm Dharmik Rabadiya</h1>
 <h3 align="center">Full Stack Developer | React | Node.js | MongoDB | AI/ML | SAP ABAP</h3>
