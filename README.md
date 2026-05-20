@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmik Rabadiya</h1>
 <h3 align="center">Software Engineer | AI/ML Enthusiast | Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharmik2910&label=Profile%20views&color=0e75b6&style=flat" alt="dharmik2910" />
-</p>
+
 
 ---
 
@@ -11,7 +9,6 @@
 
 💻 Passionate about **Full Stack Development, AI, Machine Learning, and Backend Engineering**  
 🌱 Currently learning **Next.js, FastAPI, Node.js, Redis, System Design**  
-🔭 Working on **AI/ML Projects, E-Pharmacy Backend, Portfolio Website**  
 🤝 Open to **internships, freelance projects, and collaborations**  
 ⚡ Love building real-world products with modern tech  
 
@@ -28,16 +25,17 @@
 ## 📌 Featured Projects
 
 
+### 💊 E-Pharmacy System
+Scalable pharmacy management platform with authentication, product management, Redis caching, secure APIs, and backend architecture.
 
-### 💊 E-Pharmacy Backend
-Backend API system with authentication, Redis caching, token handling, and scalable architecture.
+### 🚀 Zelbi (AI-Powered Investment Dashboard)
+Modern full-stack web application with responsive UI, API integrations, and optimized performance.
 
-### 🌐 Portfolio Website
-Modern animated developer portfolio built using HTML, CSS, JavaScript, and modern UI principles.
+### 🛒 E-Commerce Platform
+Complete e-commerce solution with product listings, cart system, authentication, order flow, and payment-ready architecture.
 
-### 📝 Blogging Platform
-Full-stack blogging platform with authentication and content management.
-
+### 🎗 Cancer Awareness & Support page
+Healthcare awareness platform focused on cancer education, information accessibility, and awareness initiatives.
 
 ---
 
