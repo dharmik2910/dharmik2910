@@ -25,16 +25,17 @@
 ## 📌 Featured Projects
 
 
-### 💊 E-Pharmacy System
+### 💊 E-Pharmacy System [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://65.2.187.166/)
+
 Scalable pharmacy management platform with authentication, product management, Redis caching, secure APIs, and backend architecture.
 
-### 🚀 Zelbi (AI-Powered Investment Dashboard)
+### 🚀 Zelbi (AI-Powered Investment Dashboard) [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://zelbi-ai-powered-investment-dashboard.netlify.app/)
 Modern full-stack web application with responsive UI, API integrations, and optimized performance.
 
-### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Platform [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://e-commerce-store-vite.vercel.app/)
 Complete e-commerce solution with product listings, cart system, authentication, order flow, and payment-ready architecture.
 
-### 🎗 Cancer Awareness & Support page
+### 🎗 Cancer Awareness & Support page [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://cancerawarenessandsupport.netlify.app/)
 Healthcare awareness platform focused on cancer education, information accessibility, and awareness initiatives.
 
 ---
