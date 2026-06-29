@@ -29,7 +29,7 @@
 
 Scalable pharmacy management platform with authentication, product management, Redis caching, secure APIs, and backend architecture.
 
-### 🚀 Zelbi (AI-Powered Investment Dashboard) [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://zelbi-ai-powered-investment-dashboard.netlify.app/)
+### 🚀 Zelbi (AI-Powered Investment Dashboard) [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](http://13.127.181.122/)
 Modern full-stack web application with responsive UI, API integrations, and optimized performance.
 
 ### 🛒 E-Commerce Platform [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://e-commerce-store-vite.vercel.app/)
