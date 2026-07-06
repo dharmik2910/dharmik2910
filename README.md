@@ -1,51 +1,126 @@
-<h1 align="center">Hi 👋, I'm Dharmik Rabadiya</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast | Full Stack Developer</h3>
+<div align="center">
 
+# Dharmik Rabadiya
 
+### Software Engineer • Full Stack Developer • AI/ML Enthusiast
+
+Building scalable backend systems, modern web applications, and AI-powered solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:djrabadiya2910@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dharmik2910)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About
 
-💻 Passionate about **Full Stack Development, AI, Machine Learning, and Backend Engineering**  
-🌱 Currently learning **Next.js, FastAPI, Node.js, Redis, System Design**  
-🤝 Open to **internships, freelance projects, and collaborations**  
-⚡ Love building real-world products with modern tech  
+I'm a Software Engineer passionate about building production-ready applications, scalable backend systems, and AI-powered software.
+
+My primary interests include:
+
+- Backend Engineering
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- System Design
+- Distributed Systems
+- Database Optimization
+
+Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Kubernetes, and production-scale architectures.**
 
 ---
 
-## 🛠 Tech Stack
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,nodejs,express,fastapi,mongodb,postgres,git,aws" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmik2910&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik2910&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dharmik2910&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik2910&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
+### Languages
 
-### 💊 E-Pharmacy System [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://65.2.187.166/)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
+</p>
 
-Scalable pharmacy management platform with authentication, product management, Redis caching, secure APIs, and backend architecture.
+### Frontend
 
-### 🚀 Zelbi (AI-Powered Investment Dashboard) [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](http://13.127.181.122/)
-Modern full-stack web application with responsive UI, API integrations, and optimized performance.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-### 🛒 E-Commerce Platform [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://e-commerce-store-vite.vercel.app/)
-Complete e-commerce solution with product listings, cart system, authentication, order flow, and payment-ready architecture.
+### Backend
 
-### 🎗 Cancer Awareness & Support page [![Demo](https://img.shields.io/badge/🌐_Demo-Live-success?style=flat)](https://cancerawarenessandsupport.netlify.app/)
-Healthcare awareness platform focused on cancer education, information accessibility, and awareness initiatives.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
----
+### Database
 
-## 🌐 Connect With Me
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:djrabadiya2910@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/dharmik2910"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 </p>
 
 ---
+
+## Featured Projects
+
+| Project | Description | Technologies | Live Demo |
+|---------|-------------|--------------|-----------|
+| **🚀 Zelbi** | AI-powered investment dashboard with authentication, secure APIs, and cloud deployment. | React • Node.js • MongoDB • AWS | 🌐 [Live](http://13.127.181.122/) |
+| **💊 E-Pharmacy System** | Production-ready pharmacy management platform with Redis caching and scalable backend architecture. | Next.js • FastAPI • PostgreSQL • Redis | 🌐 [Live](https://65.2.187.166/) |
+| **🛒 E-Commerce Platform** | Full-stack e-commerce application with authentication, shopping cart, and payment-ready architecture. | React • Node.js • MongoDB | 🌐 [Live](https://e-commerce-store-vite.vercel.app/) |
+| **🎗 Cancer Awareness Platform** | Healthcare awareness platform focused on education and accessibility. | React | 🌐 [Live](https://cancerawarenessandsupport.netlify.app/) |
+## Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☸️ Kubernetes
+- 🏗️ System Design
+- ⚡ Distributed Systems
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="mailto:djrabadiya2910@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dharmik2910">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
