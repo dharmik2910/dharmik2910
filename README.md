@@ -92,11 +92,11 @@ Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generati
 ## Featured Projects
 
 | Project | Description | Technologies | Live Demo |
-|---------|-------------|--------------|-----------|
-| **🚀 Zelbi** | AI-powered investment dashboard with authentication, secure APIs, and cloud deployment. | React • Node.js • MongoDB • AWS | 🌐 [Live](http://13.127.181.122/) |
-| **💊 E-Pharmacy System** | Production-ready pharmacy management platform with Redis caching and scalable backend architecture. | Next.js • FastAPI • PostgreSQL • Redis | 🌐 [Live](https://65.2.187.166/) |
-| **🛒 E-Commerce Platform** | Full-stack e-commerce application with authentication, shopping cart, and payment-ready architecture. | React • Node.js • MongoDB | 🌐 [Live](https://e-commerce-store-vite.vercel.app/) |
-| **🎗 Cancer Awareness Platform** | Healthcare awareness platform focused on education and accessibility. | React | 🌐 [Live](https://cancerawarenessandsupport.netlify.app/) |
+| :------ | :---------- | :----------- | :-------: |
+| **🚀 Zelbi** | AI-powered investment dashboard featuring authentication, secure APIs, responsive UI, and cloud deployment. | React • Node.js • MongoDB • AWS | 🌐 [Live](http://13.127.181.122/) |
+| **💊 E-Pharmacy System** | Production-ready pharmacy management platform with secure authentication, inventory management, Redis caching, and scalable backend architecture. | Next.js • FastAPI • PostgreSQL • Redis | 🌐 [Live](https://65.2.187.166/) |
+| **🤖 AI Chatbot** | Intelligent AI chatbot providing natural language conversations, responsive UI, and real-time AI-powered assistance. | React • Node.js • AI API | 🌐 [Live](https://chatbotandsupport.netlify.app/) |
+| **🛒 E-Commerce Platform** | Full-stack e-commerce application with authentication, shopping cart, order management, and payment-ready architecture. | React • Node.js • MongoDB | 🌐 [Live](https://e-commerce-store-vite.vercel.app/) |
 ## Currently Learning
 
 - 🤖 Large Language Models (LLMs)
