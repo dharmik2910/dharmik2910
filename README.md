@@ -8,12 +8,17 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 
 <p align="center">
 
-<a href="mailto:djrabadiya2910@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dharmikrabadiya.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white"/>
+</a>
+
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=djrabadiya2910@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dharmik2910">
@@ -21,7 +26,6 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 </a>
 
 </p>
-
 </div>
 
 ---
