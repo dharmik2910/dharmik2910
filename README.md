@@ -47,29 +47,6 @@ Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generati
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmik2910&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik2910&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dharmik2910&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik2910&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
 
 ## Tech Stack
 
