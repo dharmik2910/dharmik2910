@@ -51,8 +51,7 @@ Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generati
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel" />
-<img src="https://img.shields.io/badge/ElysiaJS-8B5CF6?style=flat-square&logo=bun&logoColor=white" height="28"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,elysia" />
 
 </td>
 </tr>
