@@ -7,23 +7,7 @@
 Building scalable backend systems, modern web applications, and AI-powered solutions.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://dharmikrabadiya.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=djrabadiya2910@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dharmik2910">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://dharmikrabadiya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white"/></a>&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=djrabadiya2910@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://github.com/dharmik2910"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </div>
 
@@ -67,7 +51,8 @@ Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generati
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,elysia" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel" />
+<img src="https://img.shields.io/badge/ElysiaJS-8B5CF6?style=flat-square&logo=bun&logoColor=white" height="28"/>
 
 </td>
 </tr>
@@ -138,17 +123,5 @@ Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generati
 I'm always interested in discussing software engineering, backend development, AI, cloud technologies, and interesting technical projects.
 
 <p align="center">
-
-<a href="https://github.com/dharmik2910">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://dharmikrabadiya.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+<a href="https://github.com/dharmik2910"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://www.linkedin.com/in/dharmik-rabadiya-0875a6257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://dharmikrabadiya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
