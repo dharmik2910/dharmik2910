@@ -46,37 +46,55 @@ Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generati
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Languages
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,js,ts,java,c,cpp" />
-</p>
+</td>
+<td valign="top" width="33%">
 
-### Frontend
-
-<p>
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
 
-### Backend
+</td>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel" />
-</p>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,elysia" />
 
-### Database
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-<p>
+**Database**
+<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
 
-### Cloud & DevOps
+</td>
+<td valign="top" width="33%">
 
-<p>
+**Cloud & DevOps**
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
+
+</td>
+<td valign="top" width="33%">
+
+**Currently Exploring**
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+
+</td>
+</tr>
+</table>
 
 ---
 
