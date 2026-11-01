@@ -26,6 +26,7 @@ $ cat now.txt
 
 | Project | Description | Technologies | Live Demo |
 | :------ | :---------- | :----------- | :-------: |
+| **🌐 Fynnchintan** | Full-stack web application featuring a modern, responsive UI, database integration, and a scalable backend architecture. | Next.js • Tailwind CSS • Cloudflare • MongoDB • | 🌐 [Live](https://fynnchintan.in/) |
 | **📊 B2B Audit & Reporting SaaS** | Production SaaS used by US small businesses: a reconciliation engine that matches thousands of rows across data sources, a fast master-data lookup, JWT auth with refresh tokens and admin OTP, Stripe subscriptions, and GA4/GTM analytics. | Next.js • Express • PostgreSQL • Stripe | 🔒 Private |
 | **🚀 Zelbi** | AI-powered investment dashboard featuring authentication, secure APIs, responsive UI, and cloud deployment. | React • Node.js • MongoDB • AWS | 🌐 [Live](http://13.127.181.122/) |
 | **💊 E-Pharmacy System** | Production-ready pharmacy management platform with secure authentication, inventory management, Redis caching, and scalable backend architecture. | Next.js • FastAPI • PostgreSQL • Redis | 🌐 [Live](https://65.2.187.166/) |
